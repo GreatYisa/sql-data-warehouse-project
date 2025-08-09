@@ -39,6 +39,4 @@ This project islicensed under [MIT License](LICENCE). You are free to use, modif
 
 ## About Me
 
-Here’s a version that puts SQL front and center:
-
 I’m Wasiu, a data analyst specializing in leveraging SQL to extract, manipulate, and analyze complex datasets. Proficient in writing advanced queries, optimizing database performance, and translating raw data into actionable insights, I combine technical precision with business acumen. Alongside SQL, I use tools like Excel, Python, and Power BI to create impactful visualizations and reports that support data-driven decisions
